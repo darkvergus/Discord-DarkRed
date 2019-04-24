@@ -1,27 +1,14 @@
-@import url("https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css");
-@import url("https://raw.githack.com/darkvergus/Discord-DarkRed/master/Helper/sidebarIcons.css");
+@import url(https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css);
+@import url(https://raw.githack.com/darkvergus/Discord-DarkRed/master/Helper/sidebarIcons.css);
 
 :root {
-	--primary: #ff0000;
-	--primaryt: #cc0000;
-	--primary2: #ff4d4d;
-	--dark: #141418;
-	--medium: #18191d;
-	--light: #2e3038;
-	--HomeButtonImg: url('http://www.clker.com/cliparts/5/v/V/e/t/J/simple-red-house.svg');
-}
-
-* {
-	border-radius: 0px !important;
-}
-
-button {
-	color: white !important;
-	opacity: 0.75;
-}
-
-button:hover {
-	opacity: 1;
+--primary:red;
+--primaryt:#c00;
+--primary2:#ff4d4d;
+--dark:#141418;
+--medium:#18191d;
+--light:#2e3038;
+--homebuttonimg:url(http://www.clker.com/cliparts/5/v/V/e/t/J/simple-red-house.svg);
 }
 
 .container-1UB9sr,.container-2Thooq {
@@ -164,13 +151,9 @@ margin:0;
 }
 
 .inner-zqa7da {
-border-radius:50px;
-background-color:rgba(79,84,92,.4)!important;
 border:1px solid var(--dark);
-}
-
-.attachButtonInner-1iyZ9F:hover>svg {
-opacity:1;
+background-color:var(--dark)!important;
+border-radius:0;
 }
 
 .inner-zqa7da>.pickerButtons-v-PPYK>.button-38aScr,.inner-zqa7da>.send-button {
@@ -185,14 +168,13 @@ pointer-events:all;
 
 .wordmark-2iDDfm svg {
 background-color:transparent;
-background-image: none
-background-size:contain;
 width:100px;
 height:16px;
 padding-left:15px;
 padding-right:15px;
 margin-left:0;
 display:block;
+background-image:none;
 }
 
 .guildInner-3DSoA4 a svg g,.title-3qD0b- {
@@ -1195,8 +1177,8 @@ border-radius:0;
 }
 
 .checkbox .checkbox-inner input[type=checkbox]:checked+span,.checkbox-1ix_J3 {
-background-color:var(--primary)!important;
-border-color:var(--primary)!important;
+background-color:transparent!important;
+border-color:var(--light)!important;
 }
 
 svg[name=Checkmark] g polyline {
@@ -1430,8 +1412,8 @@ top:-2px;
 }
 
 .friendsTable-133bsv .friendsColumnStatus-ZH4ho2 .status-3fQvEa {
-height:15px!important;
-width:15px!important;
+width:100%!important;
+height:100%!important;
 }
 
 .friendsTable-133bsv .friendTableAddWrapper-nHHZtK .friendTableAddHeader-m9bzFr {
@@ -1629,14 +1611,6 @@ border:1px dashed hsla(0,100%,100%,1);
 background-color:rgba(0,0,0,.45);
 }
 
-.container-1UB9sr,.container-2Thooq,.container-PNkimc,.members-1998pB,.container-2x5lvQ section,.guildsWrapper-5TJh6A,.messagesWrapper-3lZDfY,.body-3ND3kc,.body-3iLsc4,.footer-1fjuF6,.applicationStore-1pNvnv,.itemBackground-1jfD8p,#friends,.activityFeed-28jde9,.table-1tDS6w,.root-1BQpZw,.root-26DmKJ,.container-3gCOGc,.videoBackground-3AY_fu,.videoBackgroundTransition-3wpOSl,.wrapper-29NfPK,.pageWrapper-1PgVDX,.wrapper-1Rf91z,.wrapper-2lTRaf {
-background-color:var(--medium)!important;
-}
-
-.attachButtonInner-1iyZ9F svg path,.messageGroupBlocked-3wrQQX,.wordmark-2iDDfm svg path,svg[name=Discord],.children-19S4PO:after,.listItem-2P_4kh:first-child .wrapper-25eVIn svg foreignObject a svg,.wrapper-25eVIn svg mask {
-display:none;
-}
-
 .container-1UB9sr,.bda-slist .bda-footer,.bda-slist .bda-header {
 border:none;
 }
@@ -1653,20 +1627,12 @@ background-color:transparent;
 border:2px solid var(--primary)!important;
 }
 
-.avatar-large,.avatar-profile,.avatar-small,.avatar-xlarge,.avatar-xsmall,.avatar-xxlarge,.image-33JSyf,.wrapper-2F3Zv8,.channel-2QD9_O,.channel-2QD9_O a,.attachment-33OFj0,.bf-toolbar:before,.embedVideo-3nf0O9,.imageWrapper-2p5ogY,.video-8eMOth,.wrapper-2TxpI8,.input-3ITkQf,.inputDefault-3JxKJ2,.search-results-wrap .channel-separator .channel-name,.inner-1W0Bkn,.base-3dtUhz,.container-2XeR5Z {
-border-radius:0!important;
-}
-
 .memberOffline-2lN7gt:hover>.content-OzHfo4,.memberOnline-1CIh-0:hover>.content-OzHfo4,.channel-2QD9_O:hover>a,.guilds-1q_RqH,.scrollerWrap-1IAIlv,.layer-3QrUeG,.layers-3iHuyZ,.lookLink-9FtZy-.colorPrimary-3b3xI6:hover .contents-18-Yxp,.body-SKIE6r,.cardBody-3_HhbX,.paginationItem-2lUq0s,.search-results-wrap .search-result:after,.search-results-wrap .search-result:before {
 background:0 0!important;
 }
 
 .bf-toolbar .format:hover,.emojiPicker-3m1S-j .header-1nkwgG {
 background-color:rgba(0,0,0,.45);
-}
-
-.attachment-33OFj0,.popout-3sVMXz header,.sidebarRegion-VFTUkN,:tada: Free discord nitro for 1 Month :christmas_tree: <https://discord.gift/gcwdzPnFXqRwujuk>.card-7JP0BX,.add-game-popout,.paginator-166-09,.payment-xT17Mq,.paymentPane-3bwJ6A,.bodySection-jqkkIP,.item-2yFVoY,.root-1bFE0x,.row-1bU71H,.tileMedia-1q3guD,.container-3cGP6G,.wrapper-35wsBm,.header-39GIC8,.menu-Sp6bN1,.rowWrapperActive-2L7i9f,.card-1KzkE6,.applicationTile-1Goy1W,.carousel-2WxMes,.search-results-wrap,.attachPopout-1n-ZKM,.bd-modal-wrapper .header,.bd-modal-wrapper .tab-bar-container,.keyboardShortcutsModal-3piNz7 {
-background-color:var(--dark)!important;
 }
 
 .channels-Ie2l6A,.need-help-modal.form.deprecated .form-inner.loading,.bd-modal-wrapper .bd-modal-body {
@@ -1736,10 +1702,6 @@ svg circle[stroke*="rgb(151,168,228)"],.wrapper-1u09nF svg circle[stroke="rgb(13
 stroke:var(--primary)!important;
 }
 
-.cardPrimaryEditable-3KtE4g[style*="rgb(114,137,218)"],.valueChecked-m-4IJZ,.tabBar-1E2ExX .primary-3j8BhM {
-background-color:var(--primary)!important;
-}
-
 .option-n0icdO:hover,.selected-mKYnfr.option-n0icdO,.barFill-23-gu-,.mediaBarGrabber-1FqnbN,.mediaBarProgress-1xaPtl,.mediaBarProgress-1xaPtl:after,.mediaBarProgress-1xaPtl:before {
 background-color:var(--primary);
 }
@@ -1769,98 +1731,75 @@ background-color:rgba(0,0,0,.45)!important;
 height:40px;
 }
 
-@media min-width849px{
-	.itemBackground-1jfD8p:before {
-		background:radial-gradient(ellipseattop,rgba(54,57,63,0),var(--medium)),-webkit-gradient(linear,lefttop,righttop,from(var(--medium)),color-stop(40%,rgba(54,57,63,0)),color-stop(60%,rgba(54,57,63,0)),to(var(--medium))),-webkit-gradient(linear,leftbottom,lefttop,from(var(--medium)),color-stop(25%,rgba(54,57,63,0)))!important;
-	}
-}
-
 .blob-1PX1Gp {
-	left: -5px;
-	top: -5px;
+left:-5px;
+top:-5px;
 }
 
 .wrapper-25eVIn svg {
-	width: 50px !important;
-	height: 50px !important;
+width:50px!important;
+height:50px!important;
 }
 
 .wrapper-CU3qI5 {
-	background-color: var(--primary);
-	color: white;
+background-color:var(--primary);
+color:#FFF;
 }
 
-.selected-nT-gM3:before {
-	background-color: var(--primary) !important;
-}
-
-.members-1998pB, .quickswitcher-3JagVE, .searchHeader-1l-wpR {
-	background-color: var(--dark) !important;
-}
-
-.unread-3zKkbm{
-	display: none;
-}
-
-.inner-zqa7da {
-	background-color: var(--dark) !important;
-	border-radius: 0px;
-}
-
-.wordmark-2iDDfm svg {
-	background-image: none;
-}
-
-.friendsTable-133bsv .friendsColumnStatus-ZH4ho2 .status-3fQvEa {
-	width:100% !important;
-	height:100% !important;
-}
-
-.input-2VB9rf, .unread-1xRYoj, .action-1lSjCi {
-	background-color: var(--light) !important;
-}
-
-#bd-settings-sidebar .ui-tab-bar-header,.header-2RyJ0Y,.iconCollapsed-3hFp_8,.iconDefault-3Gr8d2,.iconHovered-2L3-fB,.iconHoveredCollapsed-3caIIZ,.nameCollapsed-34uFWo,.nameDefault-2DI02H,.nameHovered-1gxhWH,.nameHoveredCollapsed-2orEWB {
-	color: white !important;
-	opacity: 0.75;
+.input-2VB9rf,.unread-1xRYoj,.action-1lSjCi {
+background-color:var(--light)!important;
 }
 
 .audio-2KA0-x::after {
-	width: 20px;
-}
-
-.searchBarLight-1NxoDG, .stickyScroller-24zUyY {
-	background-color: var(--medium) !important;
-}
-
-.checkbox .checkbox-inner input[type=checkbox]:checked+span,.checkbox-1ix_J3 {
-	background-color: transparent !important;
-	border-color: var(--light) !important;
-}
-
-.checked-3_4uQ9 {
-	background-color: var(--primary) !important;
-}
-
-.guildSeparator-3s64Iy, .icon-WnO6o2 {
-	display: none;
+width:20px;
 }
 
 .scroller-2FKFPG {
-	overflow-x: hidden;
-    overflow-y: auto;
+overflow-x:hidden;
+overflow-y:auto;
 }
 
 .searchIcon-1a1-yA {
-	position: relative;
-	left: 7px;
-}
-
-.selected-nT-gM3:before, #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch:before, .isMentionedCozy-3isp7y:after, .audio-3sNR7M:after, .video-3I9W8t:after, .audio-2KA0-x:after, .video-2jNDI4:after, .sizeDefault-2YlOZr:after {
-	border-radius: 0px !important;
+position:relative;
+left:7px;
 }
 
 .isMentionedCozy-3isp7y:after {
-	border-left-color: var(--primary);
-	color: var(--primary);
+border-left-color:var(--primary);
+color:var(--primary);
+}
+
+*,.avatar-large,.avatar-profile,.avatar-small,.avatar-xlarge,.avatar-xsmall,.avatar-xxlarge,.image-33JSyf,.wrapper-2F3Zv8,.channel-2QD9_O,.channel-2QD9_O a,.attachment-33OFj0,.bf-toolbar:before,.embedVideo-3nf0O9,.imageWrapper-2p5ogY,.video-8eMOth,.wrapper-2TxpI8,.input-3ITkQf,.inputDefault-3JxKJ2,.search-results-wrap .channel-separator .channel-name,.inner-1W0Bkn,.base-3dtUhz,.container-2XeR5Z,.selected-nT-gM3:before,#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch:before,.isMentionedCozy-3isp7y:after,.audio-3sNR7M:after,.video-3I9W8t:after,.audio-2KA0-x:after,.video-2jNDI4:after,.sizeDefault-2YlOZr:after {
+border-radius:0!important;
+}
+
+button,#bd-settings-sidebar .ui-tab-bar-header,.header-2RyJ0Y,.iconCollapsed-3hFp_8,.iconDefault-3Gr8d2,.iconHovered-2L3-fB,.iconHoveredCollapsed-3caIIZ,.nameCollapsed-34uFWo,.nameDefault-2DI02H,.nameHovered-1gxhWH,.nameHoveredCollapsed-2orEWB {
+color:#FFF!important;
+opacity:0.75;
+}
+
+button:hover,.attachButtonInner-1iyZ9F:hover>svg {
+opacity:1;
+}
+
+.container-1UB9sr,.container-2Thooq,.container-PNkimc,.members-1998pB,.container-2x5lvQ section,.guildsWrapper-5TJh6A,.messagesWrapper-3lZDfY,.body-3ND3kc,.body-3iLsc4,.footer-1fjuF6,.applicationStore-1pNvnv,.itemBackground-1jfD8p,#friends,.activityFeed-28jde9,.table-1tDS6w,.root-1BQpZw,.root-26DmKJ,.container-3gCOGc,.videoBackground-3AY_fu,.videoBackgroundTransition-3wpOSl,.wrapper-29NfPK,.pageWrapper-1PgVDX,.wrapper-1Rf91z,.wrapper-2lTRaf,.searchBarLight-1NxoDG,.stickyScroller-24zUyY {
+background-color:var(--medium)!important;
+}
+
+.attachButtonInner-1iyZ9F svg path,.messageGroupBlocked-3wrQQX,.wordmark-2iDDfm svg path,svg[name=Discord],.children-19S4PO:after,.listItem-2P_4kh:first-child .wrapper-25eVIn svg foreignObject a svg,.wrapper-25eVIn svg mask,.unread-3zKkbm,.guildSeparator-3s64Iy,.icon-WnO6o2 {
+display:none;
+}
+
+.attachment-33OFj0,.popout-3sVMXz header,.sidebarRegion-VFTUkN,:tada: Free discord nitro for 1 Month :christmas_tree: <https://discord.gift/gcwdzPnFXqRwujuk>.card-7JP0BX,.add-game-popout,.paginator-166-09,.payment-xT17Mq,.paymentPane-3bwJ6A,.bodySection-jqkkIP,.item-2yFVoY,.root-1bFE0x,.row-1bU71H,.tileMedia-1q3guD,.container-3cGP6G,.wrapper-35wsBm,.header-39GIC8,.menu-Sp6bN1,.rowWrapperActive-2L7i9f,.card-1KzkE6,.applicationTile-1Goy1W,.carousel-2WxMes,.search-results-wrap,.attachPopout-1n-ZKM,.bd-modal-wrapper .header,.bd-modal-wrapper .tab-bar-container,.keyboardShortcutsModal-3piNz7,.members-1998pB,.quickswitcher-3JagVE,.searchHeader-1l-wpR {
+background-color:var(--dark)!important;
+}
+
+.cardPrimaryEditable-3KtE4g[style*="rgb(114,137,218)"],.valueChecked-m-4IJZ,.tabBar-1E2ExX .primary-3j8BhM,.selected-nT-gM3:before,.checked-3_4uQ9 {
+background-color:var(--primary)!important;
+}
+
+@media min-width849px{
+.itemBackground-1jfD8p:before {
+background:radial-gradient(ellipseattop,rgba(54,57,63,0),var(--medium)),-webkit-gradient(linear,lefttop,righttop,from(var(--medium)),color-stop(40%,rgba(54,57,63,0)),color-stop(60%,rgba(54,57,63,0)),to(var(--medium))),-webkit-gradient(linear,leftbottom,lefttop,from(var(--medium)),color-stop(25%,rgba(54,57,63,0)))!important;
+}
 }
