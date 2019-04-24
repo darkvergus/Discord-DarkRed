@@ -1,6 +1,17 @@
+@import url("https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css");
 @import url("https://raw.githack.com/codedotspectra/themes/master/discordelectro/css/core.css");
 @import url("https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Theme/Helper/squaredStatus.css");
 @import url("https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Theme/Helper/sidebarIcons.css");
+
+:root {
+	--primary: #ff0000;
+	--primaryt: #cc0000;
+	--primary2: #ff4d4d;
+	--dark: #141418;
+	--medium: #18191d;
+	--light: #2e3038;
+	--HomeButtonImg: url('http://www.clker.com/cliparts/5/v/V/e/t/J/simple-red-house.svg');
+}
 
 * {
 	border-radius: 0px !important;
@@ -13,16 +24,6 @@ button {
 
 button:hover {
 	opacity: 1;
-}
-
-:root {
-	--primary: #ff0000;
-	--primaryt: #cc0000;
-	--primary2: #ff4d4d;
-	--dark: #141418;
-	--medium: #18191d;
-	--light: #2e3038;
-	--HomeButtonImg: url('http://www.clker.com/cliparts/5/v/V/e/t/J/simple-red-house.svg');
 }
 
 .blob-1PX1Gp {
