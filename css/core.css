@@ -55,6 +55,25 @@ button:hover {
 	display:none;
 }
 
+.listItem-2P_4kh:first-child .wrapper-25eVIn svg {
+	height:40px;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:50%;
+	background-image:var(--HomeButtonImg)!important;
+}
+
+.circleIconButton-jET_ig {
+	border:1px dashed hsla(0,100%,100%,.5);
+	background-color:rgba(0,0,0,.25);
+	color:var(--primary);
+}
+
+.circleIconButton-jET_ig:hover {
+	border:1px dashed hsla(0,100%,100%,1);
+	background-color:rgba(0,0,0,.45);
+}
+
 // old
 
 .blob-1PX1Gp {
