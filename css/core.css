@@ -51,6 +51,10 @@ button:hover {
 	text-shadow:2px 2px 5px #000;
 }
 
+.attachButtonInner-1iyZ9F svg path,.messageGroupBlocked-3wrQQX,.wordmark-2iDDfm svg path,svg[name=Discord],.children-19S4PO:after,.listItem-2P_4kh:first-child .wrapper-25eVIn svg foreignObject a svg,.wrapper-25eVIn svg mask {
+	display:none;
+}
+
 // old
 
 .blob-1PX1Gp {
