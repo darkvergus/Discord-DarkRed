@@ -74,6 +74,19 @@ button:hover {
 	background-color:rgba(0,0,0,.45);
 }
 
+.wrapper-sa6paO {
+	height:39px;
+}
+
+.wrapper-sa6paO .item-2hkk8m {
+	border-radius:0;
+	background-color:var(--primary);
+}
+
+.guildsWrapper-5TJh6A.foldercontent .guilds-1q_RqH>div.guild-1EfMGQ:first-child .da-guildInner,.listItem-2P_4kh:first-child .wrapper-25eVIn,.listItem-2P_4kh:first-child .wrapper-sa6paO {
+	height:40px;
+}
+
 // old
 
 .blob-1PX1Gp {
