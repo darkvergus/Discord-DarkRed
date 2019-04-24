@@ -1,5 +1,4 @@
 @import url("https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css");
-@import url("https://raw.githack.com/codedotspectra/themes/master/discordelectro/css/core.css");
 @import url("https://raw.githack.com/darkvergus/Discord-DarkRed/master/Helper/squaredStatus.css");
 @import url("https://raw.githack.com/darkvergus/Discord-DarkRed/master/Helper/sidebarIcons.css");
 
@@ -24,6 +23,15 @@ button {
 
 button:hover {
 	opacity: 1;
+}
+
+.container-1r6BKw {
+	box-sizing:border-box!important;
+	box-shadow:0 0 10px #000!important;
+	border-bottom:2px solid var(--primary)!important;
+	border-top:1px solid #262626;
+	background-color:var(--dark)!important;
+	height:40px!important;
 }
 
 .blob-1PX1Gp {
