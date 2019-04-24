@@ -1,142 +1,121 @@
-#bd-settings-sidebar .ui-tab-bar-header,.header-2RyJ0Y {
-	color:#000!important;
-	background-image:linear-gradient(120deg,var(--primary) 80% 80%;
-	height:28px!important;
-	line-height:28px!important;
-	padding:0 0 0 10px !important;
-}
-
-#bd-settings-sidebar .ui-tab-bar-item:hover,.side-8zPYf6 .itemDefault-3Jdr52:hover,.side-8zPYf6 .itemHover-EnbcjT:hover {
-	background-color:rgba(0,0,0,.55)!important;
-	border-radius:0;
-	border-left:4px solid transparent;
-}
-
-#bd-settings-sidebar .ui-tab-bar-item.selected,.side-8zPYf6 .itemSelected-1qLhcL {
-	background-color:rgba(0,0,0,.55)!important;
-	color:#fff;
-	border-left:4px solid var(--primary);
-	border-radius:0;
-}
-
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(2)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/account.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/account.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(3)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/privacy.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/privacy.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(4)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/apps.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/apps.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(5)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/connections.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/connections.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(6)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/billing.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/billing.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(7)::before,.platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(8)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/nitro.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/nitro.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(9)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/hype.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/hype.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(12)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/voice.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/voice.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(13)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/overlay.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/overlay.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(14)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/notifications.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/notifications.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(15)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/keybinds.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/keybinds.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(16)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/joystick.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/joystick.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(17)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/activity_feed.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/activity_feed.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(18)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/gamepad.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/gamepad.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(19)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/text.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/text.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(20)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/eye.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/eye.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(21)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/twitch.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/twitch.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(22)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/language.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/language.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(23)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/windows.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/windows.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(25)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/changelog.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/changelog.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(26)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/experiments.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/experiments.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(27)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/dev_options.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/dev_options.png) center;
 }
 
 .platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(28)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/logout.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/logout.png) center;
 }
 
 .platform-win .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(3)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/core.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/core.png) center;
 }
 
 .platform-win .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(4)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/bandages.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/bandages.png) center;
 }
 
 .platform-win .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(5)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/emote.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/emote.png) center;
 }
 
 .platform-win .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(6)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/css.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/css.png) center;
 }
 
 .platform-win .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(7)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/plugins.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/plugins.png) center;
 }
 
 .platform-win .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:nth-child(8)::before {
-	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/theme.png) center;
+	background:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/theme.png) center;
 }
 
 .attachButtonInner-1iyZ9F svg {
-	background-image:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/upload.png) center;
+	background-image:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/master/Icons/upload.png) center;
 	background-size:100% 100%;
 	opacity:.4;
 }
