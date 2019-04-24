@@ -25,6 +25,18 @@ button:hover {
 	opacity: 1;
 }
 
+.wordmark-2iDDfm svg {
+	background-color:transparent;
+	background-image:url(https://raw.githubusercontent.com/codedotspectra/themes/master/discordelectro/import/img/wordMark.png);
+	background-size:contain;
+	width:100px;
+	height:16px;
+	padding-left:15px;
+	padding-right:15px;
+	margin-left:0;
+	display:block;
+}
+
 .container-1r6BKw {
 	box-sizing:border-box!important;
 	box-shadow:0 0 10px #000!important;
@@ -50,6 +62,8 @@ button:hover {
 	background-color:var(--dark);
 	text-shadow:2px 2px 5px #000;
 }
+
+// old
 
 .blob-1PX1Gp {
 	left: -5px;
