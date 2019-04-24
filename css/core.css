@@ -33,7 +33,7 @@ button:hover {
 
 .wordmark-2iDDfm svg {
 	background-color:transparent;
-	background-image:url(https://raw.githubusercontent.com/codedotspectra/themes/master/discordelectro/import/img/wordMark.png);
+	background-image: none;
 	background-size:contain;
 	width:100px;
 	height:16px;
@@ -43,6 +43,13 @@ button:hover {
 	display:block;
 }
 
+.guildInner-3DSoA4 a svg {
+	background-image:var(--HomeButtonImg);
+	background-position:5px -1.5px;
+	background-repeat:no-repeat!important;
+	background-size:contain!important;
+}
+
 .container-1r6BKw {
 	box-sizing:border-box!important;
 	box-shadow:0 0 10px #000!important;
@@ -50,6 +57,58 @@ button:hover {
 	border-top:1px solid #262626;
 	background-color:var(--dark)!important;
 	height:40px!important;
+}
+
+.circleIconButton-jET_ig,.container-1ETFDs,.container-2td-dC,.homeButton-2Cw51C,.iconSizeLarge-161qtT,.wrapper-2lTRaf,.wrapper-2lTRaf a {
+	height:45px!important;
+	width:45px!important;
+	border-radius:0!important;
+}
+
+.container-1ETFDs,.homeButton-2Cw51C,.homeIcon-tEMBK1 {
+	height:30px!important;
+	width:30px!important;
+}
+
+.homeButton-2Cw51C {
+	position:relative;
+	top:-5px;
+	left:13px;
+	overflow:visible;
+	z-index:2;
+}
+
+.homeButton-2Cw51C::after {
+	content:"";
+	top:-5px;
+	background-color:var(--dark);
+	border-bottom:2px solid var(--primary);
+	border-top:1px solid #262626;
+	width:700%;
+	height:37px;
+	position:absolute;
+	z-index:-1;
+	pointer-events:none;
+	box-shadow:1px 0 10px #000;
+}
+
+.wrapper-2lTRaf a.homeLink-2NBBKi {
+	top:-5px;
+	left:-4px;
+	position:relative;
+	height:37px!important;
+	background-position:center;
+	background-size:contain;
+	background-repeat:no-repeat;
+	background-image:var(--HomeButtonImg)!important;
+}
+
+.listItem-2P_4kh:first-child .wrapper-25eVIn svg {
+	height:40px;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:50%;
+	background-image:var(--HomeButtonImg)!important;
 }
 
 .header-2o-2hj,.headerBar-UHpsPw,.searchBar-6Kv8R2,.titleWrapper-1l0xT9 {
