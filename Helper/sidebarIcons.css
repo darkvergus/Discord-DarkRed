@@ -12,7 +12,7 @@
 	border-left:4px solid transparent;
 }
 
-	#bd-settings-sidebar .ui-tab-bar-item.selected,.side-8zPYf6 .itemSelected-1qLhcL {
+#bd-settings-sidebar .ui-tab-bar-item.selected,.side-8zPYf6 .itemSelected-1qLhcL {
 	background-color:rgba(0,0,0,.55)!important;
 	color:#fff;
 	border-left:4px solid var(--primary);
