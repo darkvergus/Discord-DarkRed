@@ -83,6 +83,22 @@ button:hover {
 	background-color:var(--primary);
 }
 
+.container-1UB9sr,.container-2Thooq,.container-PNkimc,.members-1998pB,.container-2x5lvQ section,.guildsWrapper-5TJh6A,.messagesWrapper-3lZDfY,.body-3ND3kc,.body-3iLsc4,.footer-1fjuF6,.applicationStore-1pNvnv,.itemBackground-1jfD8p,#friends,.activityFeed-28jde9,.table-1tDS6w,.root-1BQpZw,.root-26DmKJ,.container-3gCOGc,.videoBackground-3AY_fu,.videoBackgroundTransition-3wpOSl,.wrapper-29NfPK,.pageWrapper-1PgVDX,.wrapper-1Rf91z,.wrapper-2lTRaf {
+	background-color:var(--medium)!important;
+}
+
+.circleIconButton-jET_ig,.container-1ETFDs,.container-2td-dC,.homeButton-2Cw51C,.iconSizeLarge-161qtT,.wrapper-2lTRaf,.wrapper-2lTRaf a {
+	height:45px!important;
+	width:45px!important;
+	border-radius:0!important;
+}
+
+.circleIconButton-jET_ig,.icon-27yU2q,.wrapper-1BJsBx,.wrapper-1BJsBx img,.wrapper-25eVIn,.wrapper-25eVIn svg,.wrapper-25eVIn svg foreignObject {
+	height:43px!important;
+	width:43px!important;
+	border-radius:0;
+}
+
 .guildsWrapper-5TJh6A.foldercontent .guilds-1q_RqH>div.guild-1EfMGQ:first-child .da-guildInner,.listItem-2P_4kh:first-child .wrapper-25eVIn,.listItem-2P_4kh:first-child .wrapper-sa6paO {
 	height:40px;
 }
