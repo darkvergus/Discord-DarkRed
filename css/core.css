@@ -34,6 +34,23 @@ button:hover {
 	height:40px!important;
 }
 
+.header-2o-2hj,.headerBar-UHpsPw,.searchBar-6Kv8R2,.titleWrapper-1l0xT9 {
+	height:40px!important;
+}
+
+.header-2o-2hj,.headerBar-UHpsPw,.platform-win .guild-1EfMGQ:nth-child(1):not([style*=translateX])::after,.searchBar-6Kv8R2 {
+	background-color:var(--dark)!important;
+	box-sizing:border-box!important;
+	box-shadow:0 0 10px #000!important;
+	border-bottom:2px solid var(--primary)!important;
+	border-top:1px solid #262626;
+}
+
+.header-2o-2hj:hover {
+	background-color:var(--dark);
+	text-shadow:2px 2px 5px #000;
+}
+
 .blob-1PX1Gp {
 	left: -5px;
 	top: -5px;
