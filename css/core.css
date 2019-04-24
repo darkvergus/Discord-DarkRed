@@ -92,17 +92,6 @@ button:hover {
 	box-shadow:1px 0 10px #000;
 }
 
-.wrapper-2lTRaf a.homeLink-2NBBKi {
-	top:-5px;
-	left:-4px;
-	position:relative;
-	height:37px!important;
-	background-position:center;
-	background-size:contain;
-	background-repeat:no-repeat;
-	background-image:var(--HomeButtonImg)!important;
-}
-
 .listItem-2P_4kh:first-child .wrapper-25eVIn svg {
 	height:40px;
 	background-position:center;
