@@ -25,6 +25,12 @@ button:hover {
 	opacity: 1;
 }
 
+.wordmark-2iDDfm {
+	background-color:transparent;
+	opacity:.9;
+	pointer-events:all;
+}
+
 .wordmark-2iDDfm svg {
 	background-color:transparent;
 	background-image:url(https://raw.githubusercontent.com/codedotspectra/themes/master/discordelectro/import/img/wordMark.png);
