@@ -104,7 +104,25 @@ button:hover {
 }
 
 .nameConnectedText-3CzNQn,.nameConnectedVoice-MHUX5F,.nameDefaultText-24KCy5,.nameDefaultVoice-3WUH7s,.nameHoveredText-1uO31y,.nameHoveredVoice-YJ1Vfd,.nameLockedText-3pqQcL,.nameLockedVoice-26MhB1,.nameMutedText-3Vj4bM,.nameMutedVoice-3oxyQZ,.nameSelectedText-sp_EUw,.nameSelectedVoice-1qSph5,.nameUnreadText-DfkrI4,.nameUnreadVoice-EVo-wI {
-text-transform:capitalize;
+	text-transform:capitalize;
+}
+
+.wrapperCollapsed-3Fbxl6,.wrapperDefault-10Jfvz,.wrapperMuted-3KeA2M,.wrapperUnread-1JPWj3 {
+	background-image:linear-gradient(120deg,var(--primary) 80% 80%;
+	background-size:100% 100%;
+	background-position:-20px 0;
+	background-repeat:no-repeat;
+	height:28px!important;
+	padding:4px 0 0 20px;
+}
+
+.wrapperHovered-28fu1D,.wrapperHoveredCollapsed-1PADEo {
+	background-image:linear-gradient(120deg,var(--primary) 87% 87%;
+	background-size:100% 100%;
+	background-position:-7% 0;
+	background-repeat:no-repeat;
+	height:28px!important;
+	padding:4px 0 0 20px;
 }
 
 ::-webkit-scrollbar {
