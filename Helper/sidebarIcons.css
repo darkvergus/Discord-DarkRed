@@ -137,4 +137,6 @@
 
 .attachButtonInner-1iyZ9F svg {
 	background-image:url(https://raw.githubusercontent.com/darkvergus/Discord-DarkRed/blob/master/Icons/upload.png) center;
+	background-size:100% 100%;
+	opacity:.4;
 }
