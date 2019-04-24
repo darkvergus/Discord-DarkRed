@@ -25,24 +25,6 @@ button:hover {
 	opacity: 1;
 }
 
-.wordmark-2iDDfm {
-	background-color:transparent;
-	opacity:.9;
-	pointer-events:all;
-}
-
-.wordmark-2iDDfm svg {
-	background-color:transparent;
-	background-image: none;
-	background-size:contain;
-	width:100px;
-	height:16px;
-	padding-left:15px;
-	padding-right:15px;
-	margin-left:0;
-	display:block;
-}
-
 .guildInner-3DSoA4 a svg {
 	background-image:var(--HomeButtonImg);
 	background-position:5px -1.5px;
