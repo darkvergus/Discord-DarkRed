@@ -1,13 +1,11 @@
-@import url(https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css);
-
 :root {
---primary:#e9cb00;
---primaryt:rgba(255,188,0,.25);
---primary2:#ffbc00;
---dark:#0c0e0f;
---medium:#101214;
---light:#131517;
---homebuttonimg:url(http://www.clker.com/cliparts/5/v/V/e/t/J/simple-red-house.svg);
+	--primary:red;
+	--primaryt:#c00;
+	--primary2:#ff4d4d;
+	--dark:#141418;
+	--medium:#18191d;
+	--light:#2e3038;
+	--homebuttonimg:url(http://www.clker.com/cliparts/5/v/V/e/t/J/simple-red-house.svg);
 }
 
 .container-1UB9sr,.container-2Thooq {
